@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Descricao": "Sal\u00E1rio",
+    "Finalidade": "Receita"
+  },
+  {
+    "Id": 2,
+    "Descricao": "Custos",
+    "Finalidade": "Despesa"
+  }
+]

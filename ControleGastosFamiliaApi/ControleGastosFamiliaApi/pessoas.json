@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Paulo Henrique",
+    "Idade": 40,
+    "Transacoes": [
+      {
+        "Id": 0,
+        "Descricao": "string",
+        "Valor": 0.01,
+        "Tipo": "string",
+        "CategoriaId": 0,
+        "PessoaId": 0
+      }
+    ]
+  }
+]
